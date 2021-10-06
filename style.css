@@ -1,0 +1,13 @@
+.ami {
+    border: 10px double rebeccapurple;
+    background-color: sandybrown;
+    color: black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+.ami img {
+    width: 350px;
+    height: 350px;
+}
